@@ -10,15 +10,15 @@ redirect_from:
 {% include base_path %}
 
 ### EDUCATION
-* MLIS | University of Washington - 2022
-* BA, Environmental Studies & Sociology | Oberlin College - 2014
+* MLIS, University of Washington - 2022
+* BA, Environmental Studies & Sociology - Oberlin College - 2014
 
 
 ### RESEARCH EXPERIENCE
-Puget Sound Public Interest Technology Clinic, University of Washington Information School 
+#### Puget Sound Public Interest Technology Clinic, University of Washington Information School 
   * Predoctoral Research Associate -- August 2022 - present
 
-University of Washington Information School 
+#### University of Washington Information School 
 > I held four Graduate Research Associate positions during my masters' program:
 
   * BITS
