@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "+"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,14 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-EDUCATION
-======
+### EDUCATION
 * MLIS | University of Washington - 2022
 * BA, Environmental Studies & Sociology | Oberlin College - 2014
 
 
-RESEARCH EXPERIENCE
-======
+### RESEARCH EXPERIENCE
 * Predoctoral Research Associate | Puget Sound Public Interest Technology Clinic
   * Github University
   * Duties included: Tagging issues
@@ -29,8 +27,7 @@ RESEARCH EXPERIENCE
   * LIS FORWARD
   
   
-PROFESSIONAL EXPERIENCE
-======
+### PROFESSIONAL EXPERIENCE
 * UPENN
   * Github University
   * Duties included: Tagging issues
@@ -47,17 +44,16 @@ PROFESSIONAL EXPERIENCE
   * Supervisor: Professor Hub
   
   
-TEACHING EXPERIENCE
-======
+### TEACHING EXPERIENCE
 * Grading Assistant, LIS 545: Introduction to Data Curation | University of Washington Information School
     * 123 
 
-Publications
-======
+=====
+
+### Publications
 * CSCW
   
-Project Presentations and Awards
-======
+### Project Presentations and Awards
 *Between Essential and Expendable*
     - UW
     - iConf
@@ -66,6 +62,5 @@ Project Presentations and Awards
 **Research Award** | Capstone
   
   
-Service and leadership
-======
+### Service and leadership
 * Currently signed in to 43 different slack teams
