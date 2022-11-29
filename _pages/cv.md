@@ -9,50 +9,62 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+EDUCATION
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* MLIS | University of Washington - 2022
+* BA, Environmental Studies & Sociology | Oberlin College - 2014
 
-Work experience
+
+RESEARCH EXPERIENCE
 ======
-* Summer 2015: Research Assistant
+* Predoctoral Research Associate | Puget Sound Public Interest Technology Clinic
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
+* Graduate Research Associate | University of Washington Information School 
+  * BITS
+  * TASCHA
+  * ODL
+  * LIS FORWARD
+  
+  
+PROFESSIONAL EXPERIENCE
+======
+* UPENN
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
+
+* Historical Society of Pennsylvania
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+
+* UW Libraries
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
+  
+TEACHING EXPERIENCE
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Grading Assistant, LIS 545: Introduction to Data Curation | University of Washington Information School
+    * 123 
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* CSCW
   
-Talks
+Project Presentations and Awards
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+*Between Essential and Expendable*
+    - UW
+    - iConf
+    - UW
+
+**Research Award** | Capstone
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
