@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lindsey Schwartz"
+title                    : "LINDSEY SCHWARTZ"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lindsey Schwartz"
+  name             : ""
   avatar           : "IMG_2477.jpg"
   bio              : "Pre-doctoral research associate at the University of Washington Information School"
   location         : # "Location"
