@@ -10,17 +10,17 @@ redirect_from:
 {% include base_path %}
 
 ### EDUCATION
-* MLIS, University of Washington - 2022
-* BA, Environmental Studies & Sociology - Oberlin College - 2014
+MLIS, University of Washington - 2022
 
+BA, Environmental Studies & Sociology - Oberlin College - 2014
 
+--------
 ### RESEARCH EXPERIENCE
 #### Puget Sound Public Interest Technology Clinic, University of Washington Information School 
-  * ##### Predoctoral Research Associate -- August 2022 - present
+##### Predoctoral Research Associate -- August 2022 - present
 
 #### University of Washington Information School 
-##### > I held four Graduate Research Associate positions during my masters' program:
-
+    ##### > I held four Graduate Research Associate positions during my masters' program:
   * ##### BITS
   * ##### TASCHA
   * ##### ODL
@@ -29,7 +29,7 @@ redirect_from:
   
 ### PROFESSIONAL EXPERIENCE
 #### University of Pennsylvania Libraries 
-  * ##### Evening & Weekend Supervisor, Penn Museum Library -- October 2019 - September 2020
+    ##### Evening & Weekend Supervisor, Penn Museum Library -- October 2019 - September 2020
 
 #### Historical Society of Pennsylvania
   * ##### Project Archival Processor -- September 2019 - August 2020
