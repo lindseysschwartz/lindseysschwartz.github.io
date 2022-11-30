@@ -62,5 +62,5 @@ I held four Graduate Research Associate positions during my masters' program:
    * **University of Washington Libraries Scholars’ Studio** (online) — November 2021
   
   
-## Service and leadership
+## Service
 * **Peer Advisor, MLIS Program** -- University of Washington Information School -- June 2021 — June 2022
