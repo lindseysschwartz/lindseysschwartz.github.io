@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: 
 title: 
 permalink: /cv/
 author_profile: true
