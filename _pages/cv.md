@@ -50,7 +50,7 @@ I held four Graduate Research Associate positions during my masters' program:
 
 -----
 
-## Papers
+## Publications
 ### **Lindsey Schwartz** and Nic Weber. “Sustaining Experimental Policy through Research Coalition Building: Where Public Interest Advocates Can Matter Most.” 
   * Position paper for Who Has an Interest in “Public Interest Technology”?: Critical Questions for Working with Local Governments & Impacted Communities Workshop at CSCW ’22
   
