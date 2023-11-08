@@ -11,7 +11,6 @@ redirect_from:
 
 ### EDUCATION
 PhD in Information Science, University of Washington -- expected 2028
-     Advised by Dr. Nic Weber
 
 Masters in Library and Information Science, University of Washington -- 2022
 
@@ -21,7 +20,7 @@ BA, Environmental Studies & Sociology -- Oberlin College - 2014
 ### RESEARCH EXPERIENCE
 #### Puget Sound Public Interest Technology Clinic, University of Washington Information School 
 * Predoctoral Research Associate -- August 2022 - August 2023
-    * My primary responsibilities are conducting independent research and supporting the growth of the clinic in its inaugural year. My current projects focus on collective action and dispute arbitration in platform labor, and data governance in human subject research settings.  
+    * My primary responsibilities were conducting independent research and supporting the growth of the clinic in its inaugural year. My main projects focused on collective action and dispute arbitration in platform labor, and data governance in human subject research settings.  
 
 #### University of Washington Information School 
 I held four Graduate Research Associate positions during my masters' program:
