@@ -45,26 +45,25 @@ I held four Graduate Research Associate positions during my masters' program:
 
 #### University of Washington Libraries
 * **Information Services Student Assistant, Suzzallo and Allen Libraries** -- September - December 2021
-  
 
 ### TEACHING EXPERIENCE
 * **Grading Assistant, LIS 545: Introduction to Data Curation**, University of Washington Information School -- January - March 2022
 
 -----
 
-#### Publications
+### Publications
 * **Lindsey Schwartz** and Nic Weber. “Sustaining Experimental Policy through Research Coalition Building: Where Public Interest Advocates Can Matter Most.” 
   * Position paper for Who Has an Interest in “Public Interest Technology”?: Critical Questions for Working with Local Governments & Impacted Communities Workshop at CSCW ’22
   
-#### Project Presentations
+### Project Presentations
 *  *Between Essential and Expendable: Seattle Gig Workers' Experiences of Precarity Through the COVID-19 Pandemic*
    * **University of Washington iSchool Capstone** — May 2022
        * Recipient of Capstone Research Award — Awarded from over 150 submissions to the project that best examines a significant research question related to people, information, and technology
    * **iConference Student Symposium** (online) — March 2022
    * **University of Washington Libraries Scholars’ Studio** (online) — November 2021
 
-#### Awards
+### Awards
 * Top Scholar Fellowship, University of Washington - 2023
   
-#### Service
+### Service
 * **Peer Advisor, MLIS Program** -- University of Washington Information School -- June 2021 — June 2022
