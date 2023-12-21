@@ -23,6 +23,7 @@ BA, Environmental Studies & Sociology -- Oberlin College - 2014
     * My primary responsibilities were conducting independent research and supporting the growth of the clinic in its inaugural year. My main projects focused on collective action and dispute arbitration in platform labor, and data governance in human subject research settings.  
 
 **University of Washington Information School** 
+
 I held four Graduate Research Associate positions during my masters' program:
   * **BITS Lab (Building Institutions and Technologies Sustainably)** -- June 2021 — August 2022
       * Assisted the Principal Investigator (PI) in two studies about policy protections for independent contractors working for ridehail and third-party delivery service platforms in the Seattle area 
