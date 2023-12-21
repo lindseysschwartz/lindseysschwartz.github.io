@@ -18,11 +18,11 @@ BA, Environmental Studies & Sociology -- Oberlin College - 2014
 
 --------
 ### RESEARCH EXPERIENCE
-#### Puget Sound Public Interest Technology Clinic, University of Washington Information School 
+**Puget Sound Public Interest Technology Clinic, University of Washington Information School** 
 * Predoctoral Research Associate -- August 2022 - August 2023
     * My primary responsibilities were conducting independent research and supporting the growth of the clinic in its inaugural year. My main projects focused on collective action and dispute arbitration in platform labor, and data governance in human subject research settings.  
 
-#### University of Washington Information School 
+### University of Washington Information School 
 I held four Graduate Research Associate positions during my masters' program:
   * **BITS Lab (Building Institutions and Technologies Sustainably)** -- June 2021 — August 2022
       * Assisted the Principal Investigator (PI) in two studies about policy protections for independent contractors working for ridehail and third-party delivery service platforms in the Seattle area 
@@ -36,14 +36,14 @@ I held four Graduate Research Associate positions during my masters' program:
   
   
 ### PROFESSIONAL EXPERIENCE
-#### University of Pennsylvania Libraries 
+### University of Pennsylvania Libraries 
 * **Evening & Weekend Supervisor, Penn Museum Library** -- October 2019 - September 2020
 
-#### Historical Society of Pennsylvania
+### Historical Society of Pennsylvania
 * **Project Archival Processor** -- September 2019 - August 2020
 * **Research Services Assistant** -- August 2018 - August 2020
 
-#### University of Washington Libraries
+### University of Washington Libraries
 * **Information Services Student Assistant, Suzzallo and Allen Libraries** -- September - December 2021
 
 ### TEACHING EXPERIENCE
