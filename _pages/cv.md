@@ -52,10 +52,22 @@ I held four Graduate Research Associate positions during my masters' program:
 
 -----
 
-### Publications
-* **Lindsey Schwartz** and Nic Weber. “Sustaining Experimental Policy through Research Coalition Building: Where Public Interest Advocates Can Matter Most.” 
-  * Position paper for Who Has an Interest in “Public Interest Technology”?: Critical Questions for Working with Local Governments & Impacted Communities Workshop at CSCW ’22
-  
+### Papers
+
+Peer-reviewed
+  * Brown, E. M., **Schwartz, L.**, Huang, R.L., & Weber, N. (2023). Soft-Search: Two Datasets to Study the Identification and Production of Research Software. [https://doi.org/10.48550/arXiv.2302.14177](https://doi.org/10.48550/arXiv.2302.14177)
+      > Accepted by Joint Conference on Digital Libraries (JCDL) 
+  * Schwartz, L., & Weber, N. (2023). Asymmetric by Design: How and Why Labor Policy Impacts Gig Workers. [https://doi.org/10.31235/osf.io/mh29a](https://doi.org/10.31235/osf.io/mh29a)
+      > In review with Information, Communication, & Society
+
+
+Lightly peer-reviewed
+  * **Lindsey Schwartz** and Nic Weber. “Sustaining Experimental Policy through Research Coalition Building: Where Public Interest Advocates Can Matter Most.”
+      > Position paper for Who Has an Interest in “Public Interest Technology”?: Critical Questions for Working with Local Governments & Impacted Communities Workshop at CSCW ’22
+
+Non peer-reviewed
+* **Schwartz, L.**, Weber, N., & Brown, E. M. (2023, July 14). Deactivation with and without Representation: The Role of Dispute Arbitration for Seattle Rideshare Drivers. [https://doi.org/10.31235/osf.io/w6z8e](https://doi.org/10.31235/osf.io/w6z8e) 
+
 ### Project Presentations
 *  *Between Essential and Expendable: Seattle Gig Workers' Experiences of Precarity Through the COVID-19 Pandemic*
    * **University of Washington iSchool Capstone** — May 2022
