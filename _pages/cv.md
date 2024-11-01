@@ -70,7 +70,8 @@ Lightly peer-reviewed
   * **Lindsey Schwartz** and Nic Weber. “Sustaining Experimental Policy through Research Coalition Building: Where Public Interest Advocates Can Matter Most.” \|  *Position paper for Who Has an Interest in “Public Interest Technology”?: Critical Questions for Working with Local Governments & Impacted Communities Workshop at CSCW ’22*
 
 Non peer-reviewed
-* **Schwartz, L.**, Weber, N., & Brown, E. M. (2023, July 14). Deactivation with and without Representation: The Role of Dispute Arbitration for Seattle Rideshare Drivers. [https://doi.org/10.31235/osf.io/w6z8e](https://doi.org/10.31235/osf.io/w6z8e) 
+* **Schwartz, L.**, Weber, N., & Brown, E. M. (2023). Deactivation with and without Representation: The Role of Dispute Arbitration for Seattle Rideshare Drivers. [https://doi.org/10.31235/osf.io/w6z8e](https://doi.org/10.31235/osf.io/w6z8e)
+* **Schwartz, L.** (2024). “From Surveillance to Sousveillance: Designing Data Tools to Empower Platform-based Gig Workers” Center for Democracy and Technology Insights. [https://cdt.org/insights/from-surveillance-to-sousveillance-designing-data-tools-to-empower-platform-based-gig-workers/](https://cdt.org/insights/from-surveillance-to-sousveillance-designing-data-tools-to-empower-platform-based-gig-workers/)
 
 ### Project Presentations
 *  *Between Essential and Expendable: Seattle Gig Workers' Experiences of Precarity Through the COVID-19 Pandemic*
