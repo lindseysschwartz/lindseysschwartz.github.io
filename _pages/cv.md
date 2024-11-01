@@ -18,9 +18,13 @@ BA, Environmental Studies & Sociology -- Oberlin College - 2014
 
 --------
 ### RESEARCH EXPERIENCE
+**Google Public Policy Fellow**, Center for Democracy and Technology 
+* Research Fellow -- June 2024 - September 2024
+
 **Puget Sound Public Interest Technology Clinic**, University of Washington Information School 
 * Predoctoral Research Associate -- August 2022 - August 2023
     * My primary responsibilities were conducting independent research and supporting the growth of the clinic in its inaugural year. My main projects focused on collective action and dispute arbitration in platform labor, and data governance in human subject research settings.  
+
 
 **University of Washington Information School** 
 
@@ -48,6 +52,9 @@ I held four Graduate Research Associate positions during my masters' program:
 * **Information Services Student Assistant, Suzzallo and Allen Libraries** -- September - December 2021
 
 ### TEACHING EXPERIENCE
+* **Guest Instructor, LIS 572: Introduction to Data Science**, University of Washington Information School -- September - December 2024
+* **Guest Instructor, INSC 570: Research Design**, University of Washington Information School -- September - December 2024
+* **Teaching Assistant, INFO 351: Information, Ethics, and Policy**, University of Washington Information School -- January - March 2023
 * **Grading Assistant, LIS 545: Introduction to Data Curation**, University of Washington Information School -- January - March 2022
 
 -----
