@@ -84,4 +84,6 @@ Non peer-reviewed
 * Top Scholar Fellowship, University of Washington - 2023
   
 ### Service
+* **Department Steward** -- UAW4121 -- November 2023 - present 
+* **Reviewer, Ph.D. applicant feedback program** -- University of Washington Information School -- November 2023 - present
 * **Peer Advisor, MLIS Program** -- University of Washington Information School -- June 2021 — June 2022
